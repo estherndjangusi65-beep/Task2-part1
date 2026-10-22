@@ -1,7 +1,7 @@
 public class Main{
     public static void main(String[] args){
 
-        String customername="Mave Ndjangusi";
+        String customername="Mave Olive";
 
         long deposit= 150010;
         double depositasdouble = deposit;
